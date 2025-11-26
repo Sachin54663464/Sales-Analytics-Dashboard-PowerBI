@@ -1,5 +1,12 @@
 📊 Sales Analytics Dashboard – Power BI
 
+
+🔗 Live Dashboard File
+
+View/Download the Power BI report here:
+https://drive.google.com/file/d/1Fthoxs94KE1hNjad2vpKOLVswUmbFI3a/view?usp=sharing
+
+
 A clean and structured Power BI project designed to analyze sales performance, customer trends, and product insights using the SuperStore Sales dataset.
 
 📂 Files Included
